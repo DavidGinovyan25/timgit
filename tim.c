@@ -4,6 +4,10 @@ __int32_t summator(int x, int y) {
     return x + y;
 }
 
+int subtract(int x, int y) {
+    return x - y;
+}
+
 
 int main() {
     int x = 2;
